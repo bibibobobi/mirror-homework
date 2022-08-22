@@ -1,3 +1,5 @@
+我也有 deploy 到 vercel，可直接連結[https://mirror-homework.vercel.app/qa](https://mirror-homework.vercel.app/qa)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
